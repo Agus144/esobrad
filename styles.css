@@ -425,12 +425,12 @@ footer{
 
 @keyframes aveto-barra{
   100%{
-    width: 50%;
+    width: 40%;
   }
 }
 @keyframes mari-barra{
   100%{
-    width: 50%;
+    width: 60%;
   }
 }
 
